@@ -1,0 +1,22 @@
+{
+  "name": "001-servidor-de-monitoramento",
+  "version": "1.0.0",
+  "description": "Instalação e configuração do ambiente Node.js, Express e ferramentas de desenvolvimento. Introdução ao roteamento (rotas e métodos HTTP) para Back-End.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghosthiils/001-Servidor-de-monitoramento.git"
+  },
+  "author": "Luiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ghosthiils/001-Servidor-de-monitoramento/issues"
+  },
+  "homepage": "https://github.com/Ghosthiils/001-Servidor-de-monitoramento#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
